@@ -1,0 +1,27 @@
+img{
+ display: flex;
+}
+button{
+  height: 35px;
+  width: 80px;
+  border-radius: 10px;
+  border: solid 2px rgb(162, 205, 232);
+
+}
+img{
+  height: 700px;
+  width: 1600px;
+}
+
+.contact-details {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  column-gap: 10px;
+  padding: 0 10px;
+}
+
+.contact-details h4 {
+  margin: 0px;
+}
